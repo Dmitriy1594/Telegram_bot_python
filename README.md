@@ -59,4 +59,4 @@ def main():
 - [ProgLib](https://proglib.io/p/telegram-bot/)
 - [Tproger](https://tproger.ru/translations/telegram-bot-create-and-deploy/)
 - [Where to host Telegram Bots](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots)
-- [Tutorial to create your first Bot](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-–-Your-first-Bot))
+- [Tutorial to create your first Bot](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-–-Your-first-Bot)
